@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "にじいろ",
+  "base_artist": "絢香",
+  "createdAt": "2025-12-22T05:44:42.451035Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "にじいろ",
+      "artist": "ayaka",
+      "has_synced": true,
+      "path": "select/01_にじいろ_ayaka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "にじいろ (虹色)",
+      "artist": "絢香",
+      "has_synced": true,
+      "path": "select/02_にじいろ_(虹色)_絢香.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "にじいろ - Nijiiro",
+      "artist": "Ayaka",
+      "has_synced": true,
+      "path": "select/03_にじいろ_-_Nijiiro_Ayaka.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "匂艶(にじいろ)THE NIGHT CLUB",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/04_匂艶(にじいろ)THE_NIGHT_CLUB_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "にじいろ",
+      "artist": "絢香",
+      "has_synced": true,
+      "path": "select/05_にじいろ_絢香.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "にじいろ",
+      "artist": "絢香",
+      "has_synced": true,
+      "path": "select/06_にじいろ_絢香.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "にじいろ(Acoustic Live Tour 2014 ～3-STAR RAW～ ver.)",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/07_にじいろ(Acoustic_Live_Tour_2014_~3-STAR_RAW~_ver.)_絢香.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "にじいろ",
+      "artist": "絢香",
+      "has_synced": true,
+      "path": "select/08_にじいろ_絢香.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "にじいろ (Instrumental)",
+      "artist": "絢香",
+      "has_synced": true,
+      "path": "select/09_にじいろ_(Instrumental)_絢香.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "絢香 / にじいろ",
+      "artist": "Ayaka",
+      "has_synced": true,
+      "path": "select/10_絢香___にじいろ_Ayaka.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "にじいろ",
+      "artist": "ayaka",
+      "has_synced": true,
+      "path": "select/11_にじいろ_ayaka.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "にじいろ",
+      "artist": "ロザリーナ",
+      "has_synced": false,
+      "path": "select/12_にじいろ_ロザリーナ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "にじいろ",
+      "artist": "絢香",
+      "has_synced": true,
+      "path": "select/13_にじいろ_絢香.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "にじいろ",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/pl_01_にじいろ_絢香.txt"
+    }
+  ]
+}
